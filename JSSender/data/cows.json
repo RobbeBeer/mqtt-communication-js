@@ -1,0 +1,68 @@
+{
+    "cows" :[
+        {
+          "name" :"bella",
+          "values" : [
+            {"hematocriet": 0.26},
+            {"hemoglobine": 4.7},
+            {"glucose": 4.0},
+            {"eiwit": 0.25}
+        ]},
+        {
+            "name" :"bertha",
+            "values" : [
+                {"hematocriet": 0.26},
+                {"hemoglobine": 4.7},
+                {"glucose": 4.0},
+                {"eiwit": 0.25}
+          ]},
+          {
+            "name" :"boris",
+            "values" : [
+                {"hematocriet": 0.26},
+                {"hemoglobine": 4.7},
+                {"glucose": 4.0},
+                {"eiwit": 0.25}
+          ]},
+          {
+            "name" :"berend",
+            "values" : [
+                {"hematocriet": 0.26},
+                {"hemoglobine": 4.7},
+                {"glucose": 4.0},
+                {"eiwit": 0.25}
+          ]},
+          {
+            "name" :"bellatrix",
+            "values" : [
+                {"hematocriet": 0.26},
+                {"hemoglobine": 4.7},
+                {"glucose": 4.0},
+                {"eiwit": 0.25}
+          ]},
+          {
+            "name" :"bellekke",
+            "values" : [
+                {"hematocriet": 0.26},
+                {"hemoglobine": 4.7},
+                {"glucose": 4.0},
+                {"eiwit": 0.25}
+          ]},
+          {
+            "name" :"bellini",
+            "values" : [
+                {"hematocriet": 0.26},
+                {"hemoglobine": 4.7},
+                {"glucose": 4.0},
+                {"eiwit": 0.25}
+          ]},
+          {
+            "name" :"bellisima",
+            "values" : [
+                {"hematocriet": 0.26},
+                {"hemoglobine": 4.7},
+                {"glucose": 4.0},
+                {"eiwit": 0.25}
+          ]}
+    ]  
+}

@@ -1,0 +1,15 @@
+{
+  "name": "jsreceiver",
+  "version": "1.0.0",
+  "description": "receiving from mqtt",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^2.17.0"
+  }
+}
